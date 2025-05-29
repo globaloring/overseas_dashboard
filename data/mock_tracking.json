@@ -1,0 +1,27 @@
+{
+    "BKS000014719": {
+      "HBL": "BKS000014719",
+      "events": [
+        {"event": "FILE OPENED", "date": "2025-05-10"},
+        {"event": "CONFIRMED ON BOARD", "date": "2025-05-12"},
+        {"event": "EXPORTED", "date": "2025-05-13"},
+        {"event": "ESTIMATED TIME OF DEPARTURE", "date": "2025-05-15"},
+        {"event": "ACTUAL TIME OF DEPARTURE", "date": "2025-05-16"},
+        {"event": "PREDICTIVE ETA AT PORT OF DISCHARGE", "date": "2025-06-01"},
+        {"event": "CUSTOMS RELEASE", "date": "2025-06-03"},
+        {"event": "CARGO OUT FOR DELIVERY", "date": "2025-06-04"},
+        {"event": "CARGO DELIVERED", "date": "2025-06-05"}
+      ]
+    },
+    "ABC123456789": {
+      "HBL": "ABC123456789",
+      "events": [
+        {"event": "FILE OPENED", "date": "2025-05-18"},
+        {"event": "CONFIRMED ON BOARD", "date": "2025-05-20"},
+        {"event": "ESTIMATED TIME OF DEPARTURE", "date": "2025-05-23"},
+        {"event": "PREDICTIVE ETA AT PORT OF DISCHARGE", "date": "2025-06-10"},
+        {"event": "CARGO OUT FOR DELIVERY", "date": "2025-06-12"}
+      ]
+    }
+  }
+  
