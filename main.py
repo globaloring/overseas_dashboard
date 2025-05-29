@@ -1,0 +1,1 @@
+print("Shipping Dashboard initialized.")
